@@ -10,7 +10,7 @@ header {
   display: flex;
   height: 90px;
 
-  border: 2px solid green;
+  /*border: 2px solid green;*/
 
   justify-content: space-around;
   align-items: center;
@@ -19,14 +19,14 @@ header {
 nav {
   width: 60%;
 
-  border: 2px solid yellow;
+  /*border: 2px solid yellow;*/
 }
 /*ordenação e centralização da barra de navegação//tag filho de nav*/
 ul {
   display: flex;
 
   width: 100%;
-  border: 5px solid blue;
+  /*border: 5px solid blue;*/
 
   justify-content: space-between;
 }
